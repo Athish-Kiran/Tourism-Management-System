@@ -1,2 +1,2 @@
 # Tourism-Management-System
-DBMS Project
+A Mini-Project
